@@ -14,5 +14,3 @@ console.log(som)
 console.log(verschil)
 console.log(maal)
 console.log(deling)
-
-
